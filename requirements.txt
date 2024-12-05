@@ -1,0 +1,11 @@
+streamlit==1.26.0
+transformers==4.34.0
+tldextract==3.4.0
+validators==0.20.0
+pandas==2.1.1
+python-whois==0.7.3
+requests==2.31.0
+matplotlib==3.8.0
+Flask==2.2.5
+re==2.2.1
+ssl==2.1.3
